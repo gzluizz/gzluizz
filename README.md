@@ -1,7 +1,7 @@
 
 ## Hello, Me chamo Luiz Gabriel! 🙋🏽‍♂️
 ### Um pouco sobre mim: 
-- Atualmente cursando o 3º Período de Análise e Desenvolvimento de Sistemas, desde novo sempre mostrando interesse por tecnologias e desenvolvimento, sempre me aperfeiçoando e adquirindo novos conhecimentos na área.
+- Atualmente cursando o 4º Período de Análise e Desenvolvimento de Sistemas, desde novo sempre mostrando interesse por tecnologias e desenvolvimento, sempre me aperfeiçoando e adquirindo novos conhecimentos na área.
 
 ## Social Media
 
