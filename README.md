@@ -15,33 +15,6 @@
 
 ---
 
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gzluizz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
-<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzluizz&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<div align="center">
-
-[![GitHub Streak](https://streak-stats.demolab.com?user=gzluizz&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
-
-</div>
-
----
-
-## 🏆 Troféus
-
-<div align="center">
-
-[![Trophy](https://github-profile-trophy.vercel.app/?username=gzluizz&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
-
-</div>
-
----
-
 ## 🛠️ Stack & Ferramentas
 
 ### 🔤 Linguagens
