@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Olá%2C+me+chamo+Luiz+Gabriel!+🙋🏽‍♂️;Desenvolvedor+Full-Stack;Cloud+Computing+Enthusiast" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Ola%2C+me+chamo+Luiz+Gabriel!;Desenvolvedor+Full-Stack;Cloud+Computing+Enthusiast" alt="Typing SVG" />
 
 <p>
   Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e pós-graduando em <strong>Cloud Computing</strong>.<br/>
