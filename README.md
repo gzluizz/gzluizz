@@ -1,44 +1,124 @@
+<div align="center">
 
-## Olá, me chamo Luiz Gabriel! 🙋🏽‍♂️
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=28&pause=1000&color=6C63FF&center=true&vCenter=true&width=600&lines=Olá%2C+me+chamo+Luiz+Gabriel!+🙋🏽‍♂️;Desenvolvedor+Full-Stack;Cloud+Computing+Enthusiast" alt="Typing SVG" />
 
-Formado em Análise e Desenvolvimento de Sistemas, atualmente cursando pós-graduação em Cloud Computing. Apaixonado por tecnologia desde novo, sempre em evolução constante.
-
----
-
-## Contato
+<p>
+  Formado em <strong>Análise e Desenvolvimento de Sistemas</strong> e pós-graduando em <strong>Cloud Computing</strong>.<br/>
+  Apaixonado por tecnologia desde novo, sempre em evolução constante.
+</p>
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/gzluiz/)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:luizgabrieloliveira231@gmail.com)
+![Profile Views](https://komarev.com/ghpvc/?username=gzluizz&color=6C63FF&style=for-the-badge&label=Visitas)
+
+</div>
 
 ---
 
-## Stack atual
+## 📊 GitHub Stats
 
-**Linguagens**
+<div align="center">
 
-![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Python](https://img.shields.io/badge/Python-14354C?style=for-the-badge&logo=python&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
-![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&logo=c&logoColor=white)
+<img height="180em" src="https://github-readme-stats.vercel.app/api?username=gzluizz&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true"/>
+<img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gzluizz&layout=compact&theme=tokyonight&hide_border=true"/>
 
-**Frontend**
+</div>
 
-![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
-![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
+<div align="center">
 
-**Backend & Banco de dados**
+[![GitHub Streak](https://streak-stats.demolab.com?user=gzluizz&theme=tokyonight&hide_border=true&locale=pt_BR)](https://git.io/streak-stats)
 
-![Node.js](https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white)
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white)
+</div>
 
-**Ferramentas**
+---
 
-![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
-![VS Code](https://img.shields.io/badge/VS_Code-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
-![IntelliJ](https://img.shields.io/badge/IntelliJ_IDEA-000000?style=for-the-badge&logo=intellij-idea&logoColor=white)
+## 🏆 Troféus
+
+<div align="center">
+
+[![Trophy](https://github-profile-trophy.vercel.app/?username=gzluizz&theme=tokyonight&no-frame=true&row=1&column=7)](https://github.com/ryo-ma/github-profile-trophy)
+
+</div>
+
+---
+
+## 🛠️ Stack & Ferramentas
+
+### 🔤 Linguagens
+
+<p>
+  <img src="https://skillicons.dev/icons?i=ts,js,python,c&theme=dark" />
+</p>
+
+| Linguagem | Uso |
+|---|---|
+| **TypeScript** | Desenvolvimento full-stack com tipagem estática |
+| **JavaScript** | Scripts, automações e desenvolvimento web |
+| **Python** | Automação, scripts e análise de dados |
+| **C** | Fundamentos de programação de baixo nível |
+
+---
+
+### 🎨 Frontend
+
+<p>
+  <img src="https://skillicons.dev/icons?i=react,html,css&theme=dark" />
+</p>
+
+| Tecnologia | Uso |
+|---|---|
+| **React** | Construção de interfaces modernas e SPAs |
+| **HTML5** | Estruturação semântica de páginas web |
+| **CSS3** | Estilização, responsividade e animações |
+
+---
+
+### ⚙️ Backend & Banco de Dados
+
+<p>
+  <img src="https://skillicons.dev/icons?i=nodejs,postgres,mysql,nginx&theme=dark" />
+</p>
+
+| Tecnologia | Uso |
+|---|---|
+| **Node.js** | APIs REST, servidores e aplicações back-end |
+| **PostgreSQL** | Banco relacional principal em projetos modernos |
+| **MySQL** | Banco relacional em aplicações legadas e estudos |
+| **Nginx** | Proxy reverso, balanceamento de carga e servidores web |
+
+---
+
+### ☁️ Cloud & Infra
+
+<p>
+  <img src="https://skillicons.dev/icons?i=aws,gcp,docker,linux,git&theme=dark" />
+</p>
+
+| Tecnologia | Uso |
+|---|---|
+| **AWS** | EC2, S3, Lambda, RDS e serviços gerenciados |
+| **Google Cloud** | GKE, Cloud Run, BigQuery e Firebase |
+| **Docker** | Containerização de aplicações e ambientes isolados |
+| **Linux** | Sistema operacional principal para servidores e desenvolvimento |
+| **Git** | Controle de versão e colaboração em equipe |
+
+---
+
+### 💻 Ambientes de Desenvolvimento
+
+<p>
+  <img src="https://skillicons.dev/icons?i=vscode,pycharm&theme=dark" />
+</p>
+
+| IDE | Uso |
+|---|---|
+| **VS Code** | Desenvolvimento web e scripts |
+| **PyCharm** | Desenvolvimento Python |
+
+---
+
+<div align="center">
+
+*"Sempre aprendendo, sempre evoluindo."*
+
+</div>
